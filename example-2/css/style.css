@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+html{
+ font-family:sans-serif;   
+}
+h2{
+ font-size:2em;   
+}
+div{
+ background-color:rgb(194, 245, 111);
+    height:200px;
+    width:200px;
+    border-radius:100px;
+    transition:width .5s  ease-out;
+    
+}
+.wider{
+    width:400px;
+}

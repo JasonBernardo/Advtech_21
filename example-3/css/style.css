@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+html{
+ font-family:sans-serif;   
+}
+h2{
+ font-size:2em;   
+}
+div{
+ background-color:rgb(194, 245, 111);
+    height:20px;
+    width:20px;
+    border-radius:10px;
+    position:absolute;
+   /* transition:width .5s  ease-out; */
+    
+}
+.wider{
+    width:400px;
+}
